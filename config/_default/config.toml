@@ -1,0 +1,12 @@
+baseURL = "https://LexiLKey.github.io/"
+title = "LexiLKey"
+languageCode = "ru"
+defaultContentLanguage = "ru"
+
+[module]
+  [[module.imports]]
+    path = "github.com/CaiJimmy/hugo-theme-stack/v4"
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"

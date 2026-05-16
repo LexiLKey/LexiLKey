@@ -1,0 +1,20 @@
+mainSections = ["posts", "projects"]
+
+[sidebar]
+  emoji = ""
+  subtitle = "Разработчик"
+  avatar = "https://github.com/LexiLKey.png?size=150"
+
+[comments]
+  enabled = false
+
+[widgets]
+    homepage = [
+        { type = "search" },
+        { type = "archives", params = { limit = 5 } },
+        { type = "categories", params = { limit = 10 } },
+        { type = "tag-cloud", params = { limit = 10 } },
+    ]
+    page = [
+        { type = "toc" },
+    ]
