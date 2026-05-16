@@ -9,6 +9,8 @@
 ![Business Analysis](https://img.shields.io/badge/Business-Analysis-1D3557?style=for-the-badge)
 ![QA](https://img.shields.io/badge/QA-Testing-2A9D8F?style=for-the-badge)
 
+### 🌐 [Мой сайт](https://lexilkey.github.io/LexiLKey/)
+
 </div>
 
 ---
