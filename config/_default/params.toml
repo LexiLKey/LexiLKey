@@ -2,7 +2,7 @@ mainSections = ["posts", "projects"]
 
 [sidebar]
   emoji = ""
-  subtitle = "Разработчик"
+  subtitle = "Аналитик 1С"
   avatar = "https://github.com/LexiLKey.png?size=150"
 
 [comments]
